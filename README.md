@@ -51,7 +51,7 @@ User is notified with a popup message
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/current-location-leaflet.git
+git clone https://github.com/MicahSifuna/current-location-leaflet.git
 
 
 Open the project in your favorite code editor.
@@ -88,16 +88,6 @@ OpenStreetMap
  – map tiles
 
 HTML / CSS / JavaScript – frontend
-
-🔮 Possible Improvements / Next Steps
-
-Add a "Locate Me" button to retry geolocation
-
-Implement live location tracking with watchPosition()
-
-Customize marker icons and popup styles
-
-Store location data in a database for further GIS applications
 
 📜 License
 
